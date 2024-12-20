@@ -1,4 +1,4 @@
-E-commerce - Sistema de Vendas Online
+Banco de Dados Refinado de um E-commerce 
 Descrição
 Este é um projeto acadêmico de e-commerce desenvolvido como parte do bootcamp da Dio.me, no qual o objetivo é modelar e implementar um banco de dados para gerenciar as operações de uma plataforma de vendas online. O sistema contempla funcionalidades como o cadastro de clientes, gerenciamento de produtos, registro e controle de pedidos, gestão de estoque, processamento de pagamentos e rastreamento de entregas.
 
@@ -31,21 +31,4 @@ Estoque: Controla a quantidade de cada produto disponível.
 Fornecedor: Contém informações sobre os fornecedores de produtos.
 Pagamento: Registra os pagamentos realizados pelos clientes.
 Entrega: Armazena os dados de rastreamento de entregas.
-Como Rodar o Projeto
-Clone este repositório:
 
-bash
-Copiar código
-git clone https://github.com/seu_usuario/ecommerce.git
-Abra o MySQL Workbench e importe o arquivo .sql contendo a estrutura do banco de dados.
-
-Após importar o banco de dados, você pode começar a interagir com ele por meio do MySQL Workbench ou de uma aplicação que utilize o banco.
-
-Como Contribuir
-Faça um fork deste repositório.
-Crie uma branch para a sua feature (git checkout -b minha-feature).
-Comite suas alterações (git commit -am 'Adiciona nova funcionalidade').
-Envie para o repositório remoto (git push origin minha-feature).
-Abra um pull request.
-Licença
-Este projeto está licenciado sob a MIT License - consulte o arquivo LICENSE para mais detalhes.
